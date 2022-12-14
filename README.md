@@ -5,7 +5,7 @@ Projeto individual do segundo módulo, do curso Programadores Cariocas junto com
 <div align="center" style="display: inline_block">
 Nesse projeto, foi utilizado Javascript.
 <br>
-<img align="center" height="30" width="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 ---          
 🌐 Link para acessar o projeto: 

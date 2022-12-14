@@ -1,4 +1,4 @@
-# 📔 Projeto individual da Resilia - Estão servidos?
+# 📔 Projeto individual - Estão servidos?
 Projeto individual do terceiro módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
 
 ### 📰 Sobre o projeto:

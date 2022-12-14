@@ -7,8 +7,8 @@ Nesse projeto, foi proposto o desenvolvimento de um servidor JSON, onde deveria 
 ### 📚 Tema:
 Para que eu realizasse esse projeto, eu escolhi o tema LIVRARIA. Onde existe 4 rotas (sessão Romance, sessão suspense, sessão terror e sessão ficção cientifica).
 
-<div align="center" style="display: inline_block">
 ### 💻 Tecnologias utilizadas
+<div align="center" style="display: inline_block">
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 

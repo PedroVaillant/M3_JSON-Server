@@ -1,6 +1,9 @@
 # 📔 Projeto individual - Estão servidos?
-Projeto individual do terceiro módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
+<div align="center" style="display: inline_block">
 
+#### Projeto individual do terceiro módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
+
+</div>
 ---
 
 <div align="center" style="display: inline_block">

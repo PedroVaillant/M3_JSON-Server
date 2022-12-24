@@ -1,10 +1,13 @@
 # 📔 Projeto individual - Estão servidos?
 Projeto individual do terceiro módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
+
 ---
 
 <div align="center" style="display: inline_block">
 <img align="center" src="https://virtualbackgrounds.site/wp-content/uploads/2022/03/simple-bookshelf.jpg">
 </div>
+
+---
 
 ### 📰 Sobre o projeto:
 Nesse projeto, foi proposto o desenvolvimento de um servidor JSON, onde deveria conter 3 ou mais rotas, onde cada rota deveria ter 4 ou mais dados. E esse servidor deve ser funcional sendo possível realizar as funções GET, POST, PUT e DELETE.

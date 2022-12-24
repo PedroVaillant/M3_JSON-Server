@@ -4,7 +4,6 @@
 #### Projeto individual do terceiro módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
 
 </div>
----
 
 <div align="center" style="display: inline_block">
 <img align="center" src="https://virtualbackgrounds.site/wp-content/uploads/2022/03/simple-bookshelf.jpg">

@@ -1,4 +1,4 @@
-# 📔 Projeto individual - Estão servidos?
+# 📔 Projeto: Estão servidos?
 <div align="center" style="display: inline_block">
 
 #### Projeto individual do terceiro módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.

@@ -118,5 +118,30 @@
       "preco": 99.90,
       "autor": "Fiódor Dostoiévski"
     }
+  ],
+  
+  "Usuarios": [
+    {
+      "id": 1,
+      "usuario": "usuario1",
+      "senha": "12345"
+    },
+    {
+      "id": 2,
+      "usuario": "usuario2",
+      "senha": "54321"
+    },
+    {
+      "id": 3,
+      "usuario": "usuario3",
+      "senha": "56789"
+    },
+   
+    {
+      "id": 5,
+      "usuario": "admin",
+      "senha": "admin",
+      "role": "admin"
+    }
   ]
-} 
+}
